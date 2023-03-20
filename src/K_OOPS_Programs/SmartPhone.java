@@ -99,7 +99,7 @@ public class SmartPhone {
 				// p.camera();
 				Camera c = new Mysmartphone();
 				c.camera();
-				//Phone ph2 = new Phone();
+				// Phone ph2 = new Phone();
 				Phone ph = new Mysmartphone();
 				ph.info();
 			}

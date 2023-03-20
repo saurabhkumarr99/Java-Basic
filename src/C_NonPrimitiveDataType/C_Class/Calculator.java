@@ -1,4 +1,4 @@
-package K_OOPS_Programs;
+package C_NonPrimitiveDataType.C_Class;
 import java.util.Scanner;
 
 public class Calculator {

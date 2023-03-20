@@ -84,6 +84,8 @@ class Triangle extends Shape {
 public class AbstractMethod {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		//Shape shape=new Shape();
 
 		Rectangle rectangle = new Rectangle(30.3, 45.4);
 		Circle circle = new Circle(23.2);

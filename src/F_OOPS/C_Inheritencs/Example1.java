@@ -54,6 +54,7 @@ public class Example1 {
 		child child =new child();
 		child.method1();
 		child.method2();
+		//child.method3();
 		child.method4();
 		child.method5();
 		

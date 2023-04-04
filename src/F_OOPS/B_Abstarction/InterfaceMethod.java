@@ -1,7 +1,7 @@
 package F_OOPS.B_Abstarction;
 
 interface AdvancedArithmetic {
-	public abstract int divisorSum(int n);
+	public  int divisorSum(int n);
 }
 
 class MyCalculator implements AdvancedArithmetic {

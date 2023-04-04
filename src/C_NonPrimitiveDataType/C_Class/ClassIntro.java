@@ -31,11 +31,11 @@ class c2{
 
 public class ClassIntro {
 	
-	static void method1() {
+	public static void method1() {
 		System.out.println("Method1 called");
 	}
 	
-	static void method2() {
+	public static void method2() {
 		System.out.println("Method2 called");
 	}
 	
